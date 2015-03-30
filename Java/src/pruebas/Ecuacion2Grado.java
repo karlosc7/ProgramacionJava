@@ -2,6 +2,7 @@ package pruebas;
 
 import java.util.Scanner;
 
+//Cacular una ecuación de segundo grado
 public class Ecuacion2Grado {
 
 	public static void main(String[] args) {
